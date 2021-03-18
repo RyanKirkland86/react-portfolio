@@ -4,13 +4,19 @@
 
 This is a portfolio created using React. There is a landing page with basic contact info, a header with a brand, and a footer with important links. The header and footer persist no matter where you navigate in the app. When you land on the projects page, the contents dynamically update using one project component for each project in the portfolio.
 
-[Deployed Link]()
+[Deployed Link](https://ryankirkland86.github.io/react-portfolio/)
 
 ![Image]()
 
 ## Technologies Used:
 
-
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
+- [JSON](https://www.json.org/json-en.html)
+- [Bulma](https://bulma.io/)
+- [React](https://reactjs.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## Process:
 
@@ -18,7 +24,7 @@ This is a portfolio created using React. There is a landing page with basic cont
 
 ## Deployed Link:
 
-[Deployed Link]()
+[Deployed Link](https://ryankirkland86.github.io/react-portfolio/)
 
 ## Authors:
 
