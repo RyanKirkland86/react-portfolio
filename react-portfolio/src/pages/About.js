@@ -13,7 +13,7 @@ function About() {
             </p>
             <p>
               <Link to={"/react-portfolio/work"} className="button is-info is-light is-rounded portfolioButton">PROJECTS</Link>
-              <Link to={"/react-portfolio"} className="button is-info is-light is-rounded homeButton">HOME</Link>
+              <Link to={"/react-portfolio/"} className="button is-info is-light is-rounded homeButton">HOME</Link>
             </p>
             <br></br>
             <div className="container is-fluid">

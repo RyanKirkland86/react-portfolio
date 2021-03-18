@@ -11,7 +11,7 @@ function Work() {
                 <div className="container has-text-centered">
                 <p>
                     <Link to={"/react-portfolio/about"} className="button is-info is-light is-rounded aboutButton ">ABOUT ME</Link>
-                    <Link to={"/react-portfolio"} className="button is-info is-light is-rounded homeButton">HOME</Link>
+                    <Link to={"/react-portfolio/"} className="button is-info is-light is-rounded homeButton">HOME</Link>
                 </p>
                 <br></br>
                     <Project
