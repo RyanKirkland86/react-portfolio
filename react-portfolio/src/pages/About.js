@@ -20,7 +20,7 @@ function About() {
               <div className="tile is-ancestor">
                 <div className="tile is-4 is-vertical is-parent">
                   <div className="tile is-child box has-text-centered box">
-                    <img src="/img/200 Square Headshot.jpg" alt="Ryan Kirkland headshot" id="photo is-centered"></img>
+                    <img src="https://github.com/RyanKirkland86/react-portfolio/tree/main/react-portfolio/public/img/200 Square Headshot.jpg" alt="Ryan Kirkland headshot" id="photo is-centered"></img>
                   </div>
                   <div className="tile is-child has-text-centered box">
                     <p className="subtitle"><strong>Education</strong></p>
