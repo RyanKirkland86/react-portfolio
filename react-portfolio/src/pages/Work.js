@@ -10,7 +10,7 @@ function Work() {
             <div className="hero-body">
                 <div className="container has-text-centered">
                 <p>
-                    <Link to={"/about"} className="button is-info is-light is-rounded aboutButton ">ABOUT ME</Link>
+                    <Link to={"/react-portfolio/about"} className="button is-info is-light is-rounded aboutButton ">ABOUT ME</Link>
                     <Link to={"/react-portfolio"} className="button is-info is-light is-rounded homeButton">HOME</Link>
                 </p>
                 <br></br>

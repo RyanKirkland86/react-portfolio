@@ -23,8 +23,8 @@ function Home() {
                     </p>
                     <br></br>
                     <p>
-                        <Link to={"/about"} className="button is-info is-light is-rounded aboutButton ">ABOUT ME</Link>
-                        <Link to={"/work"} className="button is-info is-light is-rounded portfolioButton">PROJECTS</Link>
+                        <Link to={"/react-portfolio/about"} className="button is-info is-light is-rounded aboutButton ">ABOUT ME</Link>
+                        <Link to={"/react-portfolio/work"} className="button is-info is-light is-rounded portfolioButton">PROJECTS</Link>
                     </p>
                 </div>
             </div>

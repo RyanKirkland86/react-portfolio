@@ -12,7 +12,7 @@ function About() {
                 About Me
             </p>
             <p>
-              <Link to={"/work"} className="button is-info is-light is-rounded portfolioButton">PROJECTS</Link>
+              <Link to={"/react-portfolio/work"} className="button is-info is-light is-rounded portfolioButton">PROJECTS</Link>
               <Link to={"/react-portfolio"} className="button is-info is-light is-rounded homeButton">HOME</Link>
             </p>
             <br></br>

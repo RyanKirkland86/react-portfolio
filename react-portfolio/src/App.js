@@ -15,8 +15,8 @@ function App() {
           <Header />
           <Switch>
             <Route exact path="/react-portfolio" component={ Home } />
-            <Route exact path="/about" component={ About } />
-            <Route exact path="/work" component={ Work } />
+            <Route exact path="/react-portfolio/about" component={ About } />
+            <Route exact path="/react-portfolio/work" component={ Work } />
           </Switch>
           <Footer />
         </Router>
