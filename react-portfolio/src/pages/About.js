@@ -46,7 +46,7 @@ function About() {
                     <p className="subtitle"><strong>Resume</strong></p>
                     <ul className="skills">
                       <li>
-                        <a href="https://drive.google.com/uc?id=1Gp6hbFWAWJznjm9jJFXzYa0Oo9X-1BDV&export=download" download>
+                        <a href="https://drive.google.com/uc?id=1-Rbf8Oiv5FKASO8Jninpw-Q0VnUDlPMU&export=download" download>
                           <i className="fa fa-download fa-3x" aria-hidden="true"></i>
                         </a>
                       </li>

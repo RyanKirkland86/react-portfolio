@@ -25,7 +25,7 @@ function Footer() {
                             </p>
                         </div>
                         <div className="column">
-                            <a href="https://drive.google.com/uc?id=1iH-G5cqNPEyXCfxdIPywNQBt4k-0FfJF&export=download" download>
+                            <a href="https://drive.google.com/uc?id=1-Rbf8Oiv5FKASO8Jninpw-Q0VnUDlPMU&export=download" download>
                                 <i className="fa fa-download fa-3x" aria-hidden="true"></i>
                             </a>
                             <p>
