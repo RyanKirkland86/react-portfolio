@@ -10,7 +10,7 @@ function Home() {
                         Ryan Kirkland
                     </p>
                     <p>
-                        <img src="https://github.com/RyanKirkland86/react-portfolio/tree/main/react-portfolio/public/img/200 Square Headshot.jpg"></img>
+                        <img src="https://github.com/RyanKirkland86/react-portfolio/blob/main/react-portfolio/public/img/200%20Square%20Headshot.jpg"></img>
                     </p>
                     <p className="subtitle">
                         Full Stack Web Developer
