@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 
 function Footer() {
     return (
@@ -6,6 +7,7 @@ function Footer() {
             <div className="content has-text-centered">
                 <p>
                     <div className="columns">
+                        <div className="column"></div>
                         <div className="column">
                             <a href="https://github.com/RyanKirkland86">
                                 <i className="fab fa-github fa-3x"></i>
@@ -30,6 +32,7 @@ function Footer() {
                                 Resume
                             </p>
                         </div>
+                        <div className="column"></div>
                     </div>
                 </p>
             </div>

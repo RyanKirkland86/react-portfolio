@@ -35,7 +35,7 @@
         "id": 5,
         "title": "AIO Developer Webpage",
         "description": "An all-in-one homepage that keeps window management to a minimum. Site includes commonly used reference links, live weather forecasting by location, a note taking section that can save notes to local storage, top tech news in a Bootstrap carousel, an inspiring quote of the day, a random joke to make you smile, quick random GIF search by topic, and a YouTube link to a playlist of relevant videos.",
-        "image": "/img/Portfolio/DevHomepageLanding.png",
+        "image": "/img/Portfolio/DevHompageLanding.png",
         "github": "https://github.com/michaelanthonyyy/aio-developer-homepage",
         "website": "https://michaelanthonyyy.github.io/aio-developer-homepage/"
     },
